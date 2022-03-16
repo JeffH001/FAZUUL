@@ -1,0 +1,640 @@
+{
+	"items" : {
+		"gwingus" : {
+			"Plural" : "gwinguses",
+			"Description" : "The gwingus appears roughly spherical, with a slight speckled effect to its surface. It is a dull metallic silver in color, and it has a small blue pushbutton built into one end.",
+			"Use" : "SAY It wobbles around in your hands uncertainly for a moment and then lies still."
+		},
+		"mongoo" : {
+			"Plural" : "mongoos",
+			"Description" : "The mongoo is a rod about an inch in diamter. It feels cold to the touch, even once you have been holding it for a while."
+		},
+		"snuge" : {
+			"Plural" : "snuges",
+			"Description" : "The snuge is a sort of cube with little holes in one side and a button on the other side. It is bright red.",
+			"Use" : "SAY You hear a voice saying \"Mix me with a wigglesnort! Mix me with a wigglesnort!\""
+		},
+		"torkus" : {
+			"Plural" : "torkuses",
+			"Description" : "The torkus is long and rectangular, and appears to be made of a clear, cool crystalline compound of some kind."
+		},
+		"wigglesnort" : {
+			"Plural" : "wigglesnorts",
+			"Description" : "The wigglesnort is a small disk, sort of like a coin, except it\\'s in the shape of a hexagon."
+		},
+		"bilge" : {
+			"Plural" : "bilges",
+			"Description" : "The bilge is a little green box with a button recessed into one side.",
+			"Use" : "SAY A bombastic voice in your head suddenly says, \"Protect your belongings! Avoid worry! Forget about theft! Buy the X-gazax-bits factor-guaranteed FELAFEL today!\""
+		},
+		"bork" : {
+			"Plural" : "borks",
+			"Description" : "The bork is a perfectly smooth sphere about the size of a bowling ball. It seems unusually light for its size.",
+			"Use" : "SAY The bork begins sending images into your mind of a dark subterranean corridor, a set of glowing coils, a large hopper, and a control panel. Somehow the number 4 becomes imprinted on your brain."
+		},
+		"dampish" : {
+			"Plural" : "dampishes",
+			"Description" : "The dampish is shaped like a ping-pong paddle except that near the joint between the handle and the flat part there is a small white button.",
+			"Use" : "CREATE mongoo"
+		},
+		"frakkle" : {
+			"Plural" : "frakkles",
+			"Description" : "The frakkle is shaped like a smoothly worn pebble. It bears an inscription reading, \"Eggs are forever\"."
+		},
+		"frammus" : {
+			"Plural" : "frammuses",
+			"Description" : "The framus is a bar of clear, cool crystalline material that seems to calm the nerves in your hand as you hold it."
+		},
+		"gongo" : {
+			"Plural" : "gongos",
+			"Description" : "The gongo is an X-shaped object, about five inches from tip to tip. It feels strangely cold to the touch."
+		},
+		"moolkoo" : {
+			"Plural" : "moolkoo",
+			"Description" : "The moolkoo is a yellow ovoid of a mysterious substance that doesn\\'t seem to be quite entirely matter. Looking at it, you can\\'t help but get the feeling that it is trying to communicate with you."
+		},
+		"rhubarb" : {
+			"Plural" : "rhubarbs",
+			"Description" : "The rhubarb is a spongy ball of something resembling orange styrofoam. It is very light.",
+			"Use" : "SAY You sense the rhubarb transmitting alien, alien thought patterns that are almost impossible to decipher. About all you seem to be able to pick up is something about a room with chromium plated walls, high, high up in a jet-black tower."
+		},
+		"rukkle" : {
+			"Plural" : "rukkles",
+			"Description" : "The rukkle is a small oblong piece of some kind of blue metal. The inscription on it says, \"Eggs are forever\"."
+		},
+		"wufflar" : {
+			"Plural" : "wufflars",
+			"Description" : "The wufflar is a torus with a little red push-button protruding from the inside of the hole.",
+			"Use" : "CREATE torkus"
+		},
+		"cistle" : {
+			"Plural" : "cistles",
+			"Description" : "The cistle is made up of a series of small blue rings looping around to form a larger ring. Resting between two of the blue rings is a small blue button.",
+			"Use" : "CREATE snuge"
+		},
+		"nylarx" : {
+			"Plural" : "nylarxes",
+			"Description" : "The nylarx is shaped roughly spherically, but it has a jagged curve running almost all the way around the outside. It makes a little whirring noise, and occasionally something will bump around inside it as if trying to get out."
+		},
+		"palt" : {
+			"Plural" : "palts",
+			"Description" : "The palt is a pocket-sized piece of curved metal which tapers to a point at one end. It is bright blue."
+		},
+		"ravus" : {
+			"Plural" : "ravuses",
+			"Description" : "The ravus is shaped like two wide, thin boxes, sitting parallel, with a bar connecting them in the middle. The edges of the boxes are transparent, and a bright light of some kind can be seen sparkling inside."
+		},
+		"rommus" : {
+			"Plural" : "rommuses",
+			"Description" : "The rommus is a flat black box with a button recessed into one end. It looks sort of beat up, as though nobody has had any use for it.",
+			"Use" : "SAY You hear a voice saying \"Help!\""
+		},
+		"sepper" : {
+			"Plural" : "seppers",
+			"Description" : "The spper has two handles on one end, joined to a body that is roughly cone-shaped, tapering away to a dull point at the end away from the handles. It smells faintly of ozone."
+		},
+		"suvar" : {
+			"Plural" : "suvars",
+			"Description" : "The suvar is a cylindrical brown box with a gold stripe down one side. On one end there is a little switch of some kind, and on the other is a sort of horn-shaped aperture.",
+			"Use" : "CREATE wigglesnort"
+		},
+		"torrel" : {
+			"Plural" : "torrels",
+			"Description" : "The torrel looks a little like a grocery bag that has been inflated with air until somewhat round around the sides. It is made of a strange leathery material that feels cold to the touch."
+		},
+		"tracton" : {
+			"Plural" : "tractons",
+			"Description" : "The tracton is made up of many filaments of a very thin, fine wire. The wire is composed of a cool, clear crystalline substance."
+		},
+		"traset" : {
+			"Plural" : "trasets",
+			"Description" : "The traset is a collection of greenish-white cylinders apparently held together with a strong force field of some kind. The cylinders make a clanking sound as you move them around each other."
+		},
+		"bagloon" : {
+			"Plural" : "bagloons",
+			"Description" : "The bagloon is a complicated-looking affair, with tubing and strange crystalline wires covering its exterior.  It has two handles situated on one side, across from what appears to be a focusing mechanism of some sort."
+		},
+		"bundle" : {
+			"Plural" : "bundles",
+			"Description" : "The bundle appears to be a little silver box with a long wire dangling out of one side and a switch built into the other.",
+			"Use" : "SAY It beams thoughts at you. First an image of a curved surface with millions of tiny lights. Then a set of four lights in a control console. Then a single one of the four lights which suddenly lights up."
+		},
+		"cacapoo" : {
+			"Plural" : "cacapoos",
+			"Description" : "The cacapoo is a flexible green band of a sort of plastic-like substance."
+		},
+		"dweezle" : {
+			"Plural" : "dweezles",
+			"Description" : "The dweezle consists of a solid hemispherical section of a milky-white color and a cube-like section attached to the hemisphere in the middle of its flat side.  There appears to be a pushbutton on one side of the cube.",
+			"Use" : "SAY It suddenly flashes brightly with light of strange, indefinable color."
+		},
+		"flingle" : {
+			"Plural" : "flingles",
+			"Description" : "The flingle is a round, flat solid with opaque gold faces but transparent edges.  Something sparkling inside can be seen by peering through the edges."
+		},
+		"kootpod" : {
+			"Plural" : "kootpods",
+			"Description" : "The kootpod appears to be made of five cylindrical pieces which come together in a central hub made of some kind of glass.  Dimly through the glass you can see some kind of mechanism inside.  The outer faces of the cylinders appear to glow most of the time."
+		},
+		"nabob" : {
+			"Plural" : "nabobs",
+			"Description" : "The nabob is a spiral-shaped tube about three feet long.  One end of the tube has a button built into it, while the other terminates in a metal plate that seems to glow most of the time.",
+			"Use" : "CREATE gwingus"
+		},
+		"ruckus" : {
+			"Plural" : "ruckuses",
+			"Description" : "The ruckus is a sort of flexible, mushy bag about the size and shape of a football.  It looks a little scuffed up."
+		},
+		"snarp" : {
+			"Plural" : "snarps",
+			"Description" : "The snarp is a slender metallic ellipsoid with an inscription appearing along one side.  The inscription reads: \"Eggs are forever\"."
+		},
+		"zarkon" : {
+			"Plural" : "zarkons",
+			"Description" : "The zarkon is a dull black sphere about the size of a golf ball.  It seems very heavy, and it even appears to be getting heavier all the time, although this is probably an illusion."
+		}
+	},
+	"combinations" : {
+		"l1c01" : {
+			"ItemA" : "torkus",
+			"ItemB" : "snuge",
+			"NewItem" : "gongo"
+		},
+		"l1c02" : {
+			"ItemA" : "torkus",
+			"ItemB" : "gwingus",
+			"NewItem" : "wufflar"
+		},
+		"l1c03" : {
+			"ItemA" : "torkus",
+			"ItemB" : "wigglesnort",
+			"NewItem" : "bork"
+		},
+		"l1c04" : {
+			"ItemA" : "torkus",
+			"ItemB" : "mongoo",
+			"NewItem" : "framus"
+		},
+		"l1c05" : {
+			"ItemA" : "snuge",
+			"ItemB" : "gwingus",
+			"NewItem" : "rhubarb"
+		},
+		"l1c06" : {
+			"ItemA" : "snuge",
+			"ItemB" : "wigglesnort",
+			"NewItem" : "dampish"
+		},
+		"l1c07" : {
+			"ItemA" : "snuge",
+			"ItemB" : "mongoo",
+			"NewItem" : "rukkle"
+		},
+		"l1c08" : {
+			"ItemA" : "gwingus",
+			"ItemB" : "wigglesnort",
+			"NewItem" : "bilge"
+		},
+		"l1c09" : {
+			"ItemA" : "gwingus",
+			"ItemB" : "mongoo",
+			"NewItem" : "moolkoo"
+		},
+		"l1c10" : {
+			"ItemA" : "wigglesnort",
+			"ItemB" : "mongoo",
+			"NewItem" : "frakkle"
+		},
+		"l2c01" : {
+			"ItemA" : "gongo",
+			"ItemB" : "rhubarb",
+			"NewItem" : "suvar"
+		},
+		"l2c02" : {
+			"ItemA" : "gongo",
+			"ItemB" : "moolkoo",
+			"NewItem" : "tracton"
+		},
+		"l2c03" : {
+			"ItemA" : "wufflar",
+			"ItemB" : "moolkoo",
+			"NewItem" : "nylarx"
+		},
+		"l2c04" : {
+			"ItemA" : "bork",
+			"ItemB" : "rukkle",
+			"NewItem" : "palt"
+		},
+		"l2c05" : {
+			"ItemA" : "bork",
+			"ItemB" : "bilge",
+			"NewItem" : "traset"
+		},
+		"l2c06" : {
+			"ItemA" : "frammus",
+			"ItemB" : "rhubarb",
+			"NewItem" : "ravus"
+		},
+		"l2c07" : {
+			"ItemA" : "frammus",
+			"ItemB" : "rukkle",
+			"NewItem" : "sepper"
+		},
+		"l2c08" : {
+			"ItemA" : "dampish",
+			"ItemB" : "bilge",
+			"NewItem" : "rommus"
+		},
+		"l2c09" : {
+			"ItemA" : "dampish",
+			"ItemB" : "frakkle",
+			"NewItem" : "torrel"
+		},
+		"l2c10" : {
+			"ItemA" : "bilge",
+			"ItemB" : "frakkle",
+			"NewItem" : "cistle"
+		},
+		"l3c01" : {
+			"ItemA" : "sepper",
+			"ItemB" : "suvar",
+			"NewItem" : "flingle"
+		},
+		"l3c02" : {
+			"ItemA" : "sepper",
+			"ItemB" : "traset",
+			"NewItem" : "snarp"
+		},
+		"l3c03" : {
+			"ItemA" : "sepper",
+			"ItemB" : "tracton",
+			"NewItem" : "kootpod"
+		},
+		"l3c04" : {
+			"ItemA" : "cistle",
+			"ItemB" : "rommus",
+			"NewItem" : "bundle"
+		},
+		"l3c05" : {
+			"ItemA" : "cistle",
+			"ItemB" : "torrel",
+			"NewItem" : "ruckus"
+		},
+		"l3c06" : {
+			"ItemA" : "cistle",
+			"ItemB" : "palt",
+			"NewItem" : "bagloon"
+		},
+		"l3c07" : {
+			"ItemA" : "torrel",
+			"ItemB" : "traset",
+			"NewItem" : "nabob"
+		},
+		"l3c08" : {
+			"ItemA" : "suvar",
+			"ItemB" : "nylarx",
+			"NewItem" : "cacapoo"
+		},
+		"l3c09" : {
+			"ItemA" : "ravus",
+			"ItemB" : "tracton",
+			"NewItem" : "zarkon"
+		},
+		"l3c10" : {
+			"ItemA" : "ravus",
+			"ItemB" : "palt",
+			"NewItem" : "dweezle"
+		}
+	},
+	"rooms" : {
+		"1" : {
+			"Name" : "Spaceport",
+			"Description" : "You\\'re standing on the tarmac of a large spaceport, under the glare of a bluish-white sun.  To the west you see a large gate leading into an exotic alien city, with glittering towers stretching up into the sky.  To the north, south, and east, a shimmering bluish force field appears to block your path.  Through the force field, you can see the outlines of the lush forest which appears to border the spaceport in every direction except west."
+		},
+		"285" : {
+			"Name" : "Reception (South)",
+			"Description" : "You\\'re standing in what appears to be a reception area, with a large desk stretching almost all the way across the room.  The desk appears to have some writing on it.  To the south is a gate leading to the jungle.  Faintly luminescent portals lead to the north and east."
+		},
+		"286" : {
+			"Name" : "Walkway",
+			"Description" : "You\\'re standing on a broad outdoor walkway running east and west, with tall crystalline towers rising up on either side.  To the east is a gate leading to the spaceport.  Further on down the walkway to the west is a giant glowing sphere on a pedestal, and to the south is an open portal leading into the base of one of the crystalline towers."
+		},
+		"287" : {
+			"Name" : "Pathway",
+			"Description" : "You\\'re standing on a broad covered walkway running north and south between the gate to the jungle to the north and a strange small building to the south.  The words \"OSMOTIC AVAILABLE\" appear to be floating in space just above the entrance to the building.  Also, there is a crooked little pathway leading off to the west."
+		},
+		"288" : {
+			"Name" : "Reception (West)",
+			"Description" : "You\\'re standing in what seems to have once been a reception area of some sort, with a large, wide desk in the middle of the room.  To the west is the west gate of the city, and portals from the room lead away to the east and south."
+		},
+		"289" : {
+			"Name" : "Tiny Lights",
+			"Description" : "You\\'re in a strange room where the walls scintillate in blue and green, as though they were made of millions of little lights.  Portals lead to the west and north."
+		},
+		"290" : {
+			"Name" : "Hallway",
+			"Description" : "You\\'re standing in a short corridor running north and south.  There is an odd hexagonal slot in the west wall with signs of wear around its edges."
+		},
+		"291" : {
+			"Name" : "Hall of Umflungoo",
+			"Description" : "You\\'re in the Hall of Umflungoo, an auditorium-sized room with Umflungoo banners hanging from the rafters.  There is a large circular hole in the middle of the floor; portals lead out of the hall to the north and south.  A small panel attached to the wall near the north portal appears to have some writing on it."
+		},
+		"292" : {
+			"Name" : "Dirty Hallway",
+			"Description" : "You\\'re in a wide hallway making a dogleg to the west while running north and south.  There seems to be a lot of dirt on the floor here, as though it were being tracked in from somewhere.  Faintly luminescent portals appear to lead to the north, south, and west."
+		},
+		"293" : {
+			"Name" : "Elevator (Broken)",
+			"Description" : "You\\'re standing in a small cubicle with a very dirty floor.  You can feel the floor vibrate as you stand here.  Oval-shaped portals lead to the east and north."
+		},
+		"294" : {
+			"Name" : "Map",
+			"Description" : "You have entered a large circular chamber with exits leading in all directions. On the wall is a faded diagram of some kind. It looks at first glance as though it might be a map."
+		},
+		"295" : {
+			"Name" : "Display Cases",
+			"Description" : "You\\'re walking down a long hall with portals leading to the north, south, and east.  All along the hall are some sort of transparent display cases with weird substances inside them.  There seems to be a lot of dirt on the floor here, as though it were being tracked in from someplace nearby."
+		},
+		"296" : {
+			"Name" : "Sphere",
+			"Description" : "You\\'re standing beside a giant glowing sphere set in the middle of a walkway. To the north is a small gate leading to a little courtyard, and to the west is an entryway leading into a large circular building with sparkling metallic blue walls.  The walkway you are standing on stretches off to a gate in the distance to the east."
+		},
+		"297" : {
+			"Name" : "Courtyard",
+			"Description" : "You\\'re standing in a small courtyard with exotic towers rising to the sky all around you.  One pathway leads to a gate to the south, and another leads to an entrance in one of the towers to the west."
+		},
+		"298" : {
+			"Name" : "Foon-Ball Emporium",
+			"Description" : "You have entered the Foon-Ball Emporium.  Overhead you can see the usual holographically-shaded regions of pleebor, fong, oomwazzitz, and so on, in the standard figure-eight pattern.  A set of instructions appears on the wall, just above a slot about the size of a gwingus.  Portals lead from the Emporium in all directions."
+		},
+		"299" : {
+			"Name" : "OSMOTIC",
+			"Description" : "You\\'re inside the strange little building, which only appears to have one room. Sniffing the air, you smell ozone quite strongly, but the smell does not seem to come from anywhere in particular.  A large osmotic is hovering in the center of the room! The only exit seems to be to the north."
+		},
+		"300" : {
+			"Name" : "Pathway",
+			"Description" : "You\\'re walking down a glowing pathway through what was at one time apparently a garden of some kind.  To the south there is a large iridescent building with an entrance at its base.  To the east, the pathway opens out onto a broad covered walkway running north and south.  To the west is a cluster of small dome-shaped structures, and to the north is a tall narrow building, all black, topped by a giant silver disk."
+		},
+		"301" : {
+			"Name" : "Jet Black Square",
+			"Description" : "You\\'re standing in a large square chamber with both walls and floor completely jet black.  Looking up, you cannot see the ceiling.  Brightly glowing portals lead west and south."
+		},
+		"302" : {
+			"Name" : "Dome with many lights",
+			"Description" : "You\\'re inside a strange little dome-shaped structure.  The inside surface of the dome is covered with millions of tiny lights that seem to blink on and off in many different colors, at random.  There is a strange discolored area on the floor, with the beginnings of a lip forming around it.  Portals lead to the east and north."
+		},
+		"303" : {
+			"Name" : "Hall of Voices",
+			"Description" : "You\\'re standing in the middle of a large hall filled with little gusts of wind. As the gusts whistle around you, they almost sound like voices at the edge of hearing. A large dark portal leads away to the east, and another smaller one leads south."
+		}
+	},
+	"connections" : {
+		"1" : {
+			"From" : "1",
+			"To" : "286",
+			"Direction" : "west"
+		},
+		"2" : {
+			"From" : "286",
+			"To" : "1",
+			"Direction" : "east"
+		},
+		"3" : {
+			"From" : "287",
+			"To" : "299",
+			"Direction" : "south"
+		},
+		"4" : {
+			"From" : "299",
+			"To" : "287",
+			"Direction" : "north"
+		},
+		"5" : {
+			"From" : "287",
+			"To" : "300",
+			"Direction" : "west"
+		},
+		"6" : {
+			"From" : "300",
+			"To" : "287",
+			"Direction" : "east"
+		},
+		"7" : {
+			"From" : "300",
+			"To" : "298",
+			"Direction" : "south"
+		},
+		"8" : {
+			"From" : "298",
+			"To" : "300",
+			"Direction" : "north"
+		},
+		"9" : {
+			"From" : "300",
+			"To" : "301",
+			"Direction" : "north"
+		},
+		"10" : {
+			"From" : "301",
+			"To" : "300",
+			"Direction" : "south"
+		},
+		"11" : {
+			"From" : "301",
+			"To" : "303",
+			"Direction" : "west"
+		},
+		"12" : {
+			"From" : "303",
+			"To" : "301",
+			"Direction" : "east"
+		},
+		"13" : {
+			"From" : "300",
+			"To" : "302",
+			"Direction" : "west"
+		},
+		"14" : {
+			"From" : "302",
+			"To" : "300",
+			"Direction" : "east"
+		},
+		"15" : {
+			"From" : "302",
+			"To" : "303",
+			"Direction" : "north"
+		},
+		"16" : {
+			"From" : "303",
+			"To" : "302",
+			"Direction" : "south"
+		},
+		"17" : {
+			"From" : "286",
+			"To" : "291",
+			"Direction" : "south"
+		},
+		"18" : {
+			"From" : "291",
+			"To" : "286",
+			"Direction" : "north"
+		},
+		"19" : {
+			"From" : "286",
+			"To" : "296",
+			"Direction" : "west"
+		},
+		"20" : {
+			"From" : "296",
+			"To" : "286",
+			"Direction" : "east"
+		},
+		"21" : {
+			"From" : "296",
+			"To" : "294",
+			"Direction" : "west"
+		},
+		"22" : {
+			"From" : "294",
+			"To" : "296",
+			"Direction" : "east"
+		},
+		"23" : {
+			"From" : "296",
+			"To" : "297",
+			"Direction" : "north"
+		},
+		"24" : {
+			"From" : "297",
+			"To" : "296",
+			"Direction" : "south"
+		},
+		"25" : {
+			"From" : "295",
+			"To" : "294",
+			"Direction" : "east"
+		},
+		"26" : {
+			"From" : "294",
+			"To" : "295",
+			"Direction" : "west"
+		},
+		"27" : {
+			"From" : "298",
+			"To" : "294",
+			"Direction" : "south"
+		},
+		"28" : {
+			"From" : "294",
+			"To" : "298",
+			"Direction" : "north"
+		},
+		"29" : {
+			"From" : "292",
+			"To" : "294",
+			"Direction" : "north"
+		},
+		"30" : {
+			"From" : "294",
+			"To" : "292",
+			"Direction" : "south"
+		},
+		"31" : {
+			"From" : "295",
+			"To" : "288",
+			"Direction" : "north"
+		},
+		"32" : {
+			"From" : "288",
+			"To" : "295",
+			"Direction" : "south"
+		},
+		"33" : {
+			"From" : "295",
+			"To" : "293",
+			"Direction" : "south"
+		},
+		"34" : {
+			"From" : "293",
+			"To" : "295",
+			"Direction" : "north"
+		},
+		"35" : {
+			"From" : "297",
+			"To" : "298",
+			"Direction" : "west"
+		},
+		"36" : {
+			"From" : "298",
+			"To" : "297",
+			"Direction" : "east"
+		},
+		"37" : {
+			"From" : "298",
+			"To" : "288",
+			"Direction" : "west"
+		},
+		"38" : {
+			"From" : "288",
+			"To" : "299",
+			"Direction" : "east"
+		},
+		"39" : {
+			"From" : "291",
+			"To" : "290",
+			"Direction" : "south"
+		},
+		"40" : {
+			"From" : "290",
+			"To" : "291",
+			"Direction" : "north"
+		},
+		"41" : {
+			"From" : "289",
+			"To" : "290",
+			"Direction" : "north"
+		},
+		"42" : {
+			"From" : "290",
+			"To" : "289",
+			"Direction" : "south"
+		},
+		"43" : {
+			"From" : "289",
+			"To" : "285",
+			"Direction" : "west"
+		},
+		"44" : {
+			"From" : "285",
+			"To" : "289",
+			"Direction" : "east"
+		},
+		"45" : {
+			"From" : "285",
+			"To" : "292",
+			"Direction" : "north"
+		},
+		"46" : {
+			"From" : "292",
+			"To" : "285",
+			"Direction" : "south"
+		},
+		"47" : {
+			"From" : "293",
+			"To" : "292",
+			"Direction" : "east"
+		},
+		"48" : {
+			"From" : "292",
+			"To" : "293",
+			"Direction" : "west"
+		}
+	},
+	"roomitems" : {
+		"1" : {
+			"Room" : "300",
+			"Item" : "snuge",
+			"Quantity" : "1"
+		}
+	}
+}
