@@ -41,9 +41,9 @@ You can enter `HELP` or `H` at any time after you've logged in to see a list of 
 ## Main Map
 If you're having trouble navigating the world of FAZUUL, here's the map that was used.
 
-<div align="center"><img alt="FAZUUL product image" src="/images/city_floor1.gif?raw=true" height=500></div>
+<div align="center"><img alt="FAZUUL product image" src="/images/city_floor1.gif?raw=true" height=500>
 
-(Image courtesy of "Sean's Guide to FAZUUL")
+(Image courtesy of "Sean's Guide to FAZUUL")</div>
 
 ## Database Entity Relationship
 
