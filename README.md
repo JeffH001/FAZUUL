@@ -19,7 +19,7 @@ If you have Scala and MySQL installed, simply clone this repository, edit any pa
 
 ## Made With...
 - Scala v2.12.15
-- SBT v1.6.2
+- sbt v1.6.2
 - Java v8 (v1.8.0_312)
 - MySQL v8.0.28
 - VSCode v1.65.2
