@@ -19,6 +19,7 @@ If you have Scala and MySQL installed, simply clone this repository, edit any pa
 
 ## Made With...
 - Scala v2.12.15
+- SBT v1.6.2
 - Java v8 (v1.8.0_312)
 - MySQL v8.0.28
 - VSCode v1.65.2
@@ -29,7 +30,7 @@ If you have Scala and MySQL installed, simply clone this repository, edit any pa
 
 ## About "FAZUUL"
 
-<center><img alt="FAZUUL product image" src="/images/Fazuul.jpg?raw=true" height=300></center>
+<div align="center"><img alt="FAZUUL product image" src="/images/Fazuul.jpg?raw=true" height=300></div>
 
 FAZUUL is a puzzle game set on an alien world with bizarre objects that you could combine and use to solve various puzzles.  In this implementation I've only added the first four levels of items, which you can combine in different ways to unlock 30 possible recipies for a total of 35 different items.  See if you can collect them all!
 
@@ -40,13 +41,13 @@ You can enter `HELP` or `H` at any time after you've logged in to see a list of 
 ## Main Map
 If you're having trouble navigating the world of FAZUUL, here's the map that was used.
 
-<center><img alt="FAZUUL product image" src="/images/city_floor1.gif?raw=true" height=500></center>
+<div align="center"><img alt="FAZUUL product image" src="/images/city_floor1.gif?raw=true" height=500></div>
 
 (Image courtesy of "Sean's Guide to FAZUUL")
 
 ## Database Entity Relationship
 
-<center><img alt="FAZUUL product image" src="/images/FAZUUL_ER_Diagram.png?raw=true" height=500></center>
+<div align="center"><img alt="FAZUUL product image" src="/images/FAZUUL_ER_Diagram.png?raw=true" height=500></div>
 
 The database is set up to track players, items, rooms, and the intersections between those things.  The tables used in the game represent the following data:
 
@@ -60,6 +61,6 @@ The database is set up to track players, items, rooms, and the intersections bet
 * `seenrooms` - Tracks what rooms each player has seen.
 * `roomitems`* - Items available in the rooms.
 
-Tables marked with an "*" above are ones which are partially or completely populated from the included `FazuulData.json` file.
+Tables marked with an "*" above are ones which are partially or completely populated from the data in the included `FazuulData.json` file.
 
 Enjoy!
